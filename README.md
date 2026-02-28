@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I'm Kevin, a Systems Engineering student focused on Frontend Development.  <br>I build clean, scalable, and user-centered web applications.</h3>
+<h2 align="center">I'm Kevin, a Systems Engineering student focused on Frontend Development.  <br>I build clean, scalable, and user-centered web applications.</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">- 💻 Primary focus: React / Next.js / TypeScript<br>- 🎯 Interested in frontend architecture and best practices<br>- 🧠 I like understanding how things work under the hood<br>- 📈 Constantly learning and improving</h4>
+<h3 align="left">- 💻 Primary focus: React / Next.js / TypeScript<br>- 🎯 Interested in frontend architecture and best practices<br>- 🧠 I like understanding how things work under the hood<br>- 📈 Constantly learning and improving</h3>
 
 ###
 <br>
